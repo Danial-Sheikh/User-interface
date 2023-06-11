@@ -1,0 +1,32 @@
+body {
+font-family: 'Poppins' !important;
+}
+
+.user-panel.mt-3.pb-3.mb-3.d-flex a.d-block {
+    font-family: 'Poppins' !important;
+}
+
+[class*=sidebar-dark-] {
+    background-color: #3747d3 !important;
+}
+
+
+
+span.znordertitle {
+    border: 1px solid #3747d3 !important;
+    padding: 10px 20px !important;
+    border-radius: 25px !important;
+    background: #3747d3 !important;
+    color: white !important;
+    font-family: Poppins !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    line-height: 24px !important;
+    letter-spacing: 0em !important;
+    text-align: left !important;
+}
+
+.znfaicon {
+    color: #C6C6C6 !important;
+    font-size: 23px;
+}
